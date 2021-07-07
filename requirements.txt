@@ -1,5 +1,4 @@
 telethon
 pyrogram
-os
 requests
 bs4
